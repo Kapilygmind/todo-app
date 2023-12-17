@@ -5,7 +5,7 @@ metadata:
 spec:
  containers:
   - name: todo-app
-   image: youngminds73/todo:latest
+   image: kapilygmind/todo:latest
     ports:
     - containerPort: 8000
 
